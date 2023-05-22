@@ -20,7 +20,7 @@ For low-level data access, I considered Dapper at first, which I love. But due t
 
 ## Sample app
 
-A sample conole app is [here](https://github.com/adamosoftware/ViewMaterializer/blob/master/SampleApp/Program.cs). It is a highly simplified sales order database of items, regions, and orders. These are some things to note about the sample app:
+A sample console app is [here](https://github.com/adamosoftware/ViewMaterializer/blob/master/SampleApp/Program.cs). It is a highly simplified sales order database of items, regions, and orders. These are some things to note about the sample app:
 
 - A SQL Script is [here](https://github.com/adamosoftware/ViewMaterializer/blob/master/SampleApp/Sql/Script.sql) that creates the necessary objects for the sample database.
 
